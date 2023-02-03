@@ -8,6 +8,9 @@
     <Todo />
   </div>
 </div>
+<main>
+  <h1>Helllo bro</h1>
+</main>
 
 <style>
   h1 {
